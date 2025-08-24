@@ -15,7 +15,7 @@ import Link from "next/link"
 const properties = [
   {
     id: 1,
-    name: "AMANI",
+    name: "GAWDA",
     location: "Downtown District",
     price: 2850000,
     beds: 3,

@@ -148,7 +148,7 @@ function CommercialBuilding({ apartments, onApartmentHover, hoveredApartment, fi
       ))}
 
       <Html position={[0, 6, 0]} center>
-        <div className="bg-emerald-600 text-white px-4 py-2 rounded-lg font-bold text-lg">AMANI RESIDENTIAL</div>
+        <div className="bg-emerald-600 text-white px-4 py-2 rounded-lg font-bold text-lg">GAWDA RESIDENTIAL</div>
       </Html>
     </group>
   )
@@ -270,7 +270,7 @@ export default function ThreeDViewer() {
               <span className="font-bold text-xl">FlatShow</span>
             </Link>
             <Badge variant="secondary" className="bg-emerald-600 text-white">
-              AMANI RESIDENTIAL - 3D VIEWER
+              GAWDA RESIDENTIAL - 3D VIEWER
             </Badge>
           </div>
 

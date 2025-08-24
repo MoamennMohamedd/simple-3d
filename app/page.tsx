@@ -48,7 +48,7 @@ export default function HomePage() {
             <Badge variant="secondary" className="mb-4">
               Premium Property Showcase
             </Badge>
-            <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 font-serif">AMANI</h1>
+            <h1 className="text-4xl md:text-6xl font-bold text-foreground mb-6 font-serif">GAWDA</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto mb-8">
               Experience luxury living in this stunning modern property featuring premium finishes, spacious layouts,
               and breathtaking views.
@@ -72,7 +72,7 @@ export default function HomePage() {
           <div className="relative rounded-2xl overflow-hidden shadow-2xl mb-16">
             <img
               src="/modern-luxury-apartment-interior-with-floor-to-cei.png"
-              alt="AMANI Property - Main View"
+              alt="GAWDA Property - Main View"
               className="w-full h-[600px] object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent" />

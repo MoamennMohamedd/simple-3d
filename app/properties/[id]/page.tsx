@@ -11,7 +11,7 @@ import { notFound } from "next/navigation"
 const properties = [
   {
     id: "1",
-    name: "AMANI",
+    name: "GAWDA",
     location: "Downtown District",
     fullAddress: "123 Premium Avenue, Downtown District, City 12345",
     price: "$2,850,000",

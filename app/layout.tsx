@@ -17,7 +17,7 @@ const manrope = Manrope({
 })
 
 export const metadata: Metadata = {
-  title: "FlatShow Property - AMANI",
+  title: "FlatShow Property - GAWDA",
   description: "Modern property showcase platform for luxury real estate",
   generator: "v0.app",
 }
